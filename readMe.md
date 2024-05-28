@@ -15,3 +15,5 @@ gemini API module
  > This module gets gemini api model list for check availd models
  >
  > This needs availd gemini api key
+ >
+ > So, it check api key in this process !
